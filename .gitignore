@@ -1,1 +1,11 @@
+   # Excel lock / temp files
+   ~$*
+   *.tmp
 
+   # PDFs created by the Export PDF button
+   reports/
+
+   # OS clutter
+   .DS_Store
+   Thumbs.db
+   desktop.ini
