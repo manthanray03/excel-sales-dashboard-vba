@@ -1,0 +1,206 @@
+Order ID,Order Date,Ship Date,Customer ID,Customer Name,Segment,City,Province,Product ID,Product Name,Quantity,Unit Price,Discount,Sales Channel,Sales Rep,Payment Method
+SO-100662,2024-07-01,2024-07-04,CUS-10063,Luc Rivera,Consumer,Lethbridge,Alta.,PRD-4007,Laser Printer,1,$229.99,0%,ONLINE,Marcus Bell,PayPal
+SO-100662,2024-07-01,2024-07-04,CUS-10063,Luc Rivera,Consumer,Lethbridge,Alta., PRD-2004,Garden Hose 50ft,6,$34.99,20%,ONLINE,Marcus Bell,PayPal
+SO-100663,2024-07-01,2024-07-02,CUS-10337,Coastal Coffee House,Small Business,Montreal,QC,PRD-5004,Yoga Mat,4,$34.99,5%,online,Sophie Tremblay,PayPal
+SO-100664,2024-07-01,2024-07-06,CUS-10454,Westwind Bakery,Corporate,Edmonton,AB,PRD-4001,Copy Paper (Case),7,$54.99,5%,Online,Marcus Bell,Credit Card
+SO-100664,2024-07-01,2024-07-06,CUS-10454,Westwind Bakery,Corporate,Edmonton,AB,PRD-4005,Spiral Notebooks 5pk,19,$12.99,10%,Online,Marcus Bell,Credit Card
+SO-100665,2024-07-01,2024-07-01,CUS-10873,Meadowbrook Design Studio,Small Business,Calgary,Alta.,PRD-1005,Drip Coffee Maker,1,79.99,,In-Store,Olivia Chen,Debit
+SO-100666,2024-07-01,2024-07-05,CUS-10020,Oakridge Landscaping,Small Business,Regina,Sask.,PRD-3002,Bluetooth Speaker,2,$69.99,10%,Online,Priya Nair,PayPal
+SO-100667,2024-07-01,2024-07-06,CUS-10213,Rachel Reyes,Consumer,Moose Jaw,SK,PRD-1008,Bamboo Cutting Board,1,$24.99,0%,Online,Tyler Hughes,PayPal
+SO-100668,2024-07-02,2024-07-05,CUS-10583,Valley Veterinary Clinic,Small Business,Toronto,ON,PRD-4005,Spiral Notebooks 5pk,2,$12.99,0%,Online,Daniel Okafor,PayPal
+SO-100669,2024-07-02,2024-07-02,CUS-10966,Brightside Design Studio,Small Business,Calgary,AB,PRD-4003,Standing Desk Converter,3,249.99,,In-Store,Marcus Bell,Credit Card
+SO-100670,2024-07-02,2024-07-06,CUS-10971,Donna Howard,Consumer,Regina,SK,PRD-2001,4-Person Dome Tent,1,$219.99,0%,Online,Priya Nair,Credit Card
+SO-100671,2024-07-02,2024-07-04,CUS-10965,Eastside Dental Clinic,Corporate,BRANDON,MB,PRD-3002,Bluetooth Speaker,3,$69.99,5%,Online,Tyler Hughes,Credit Card
+SO-100672,2024-07-03,2024-07-03,CUS-11048,Goldfield Property Management,Corporate,Gatineau,qc,PRD-5001,Electric Toothbrush,3,89.99,0.05,In-Store,Sophie Tremblay,Debit
+SO-100673,2024-07-03,2024-07-03,CUS-10794,Beverly Wagner,Consumer,Regina,SK,PRD-5002,Hair Dryer, 1 ,59.99,0.2,In-Store,Priya Nair,Credit Card
+SO-100674,07/03/2024,07/03/2024,CUS-10827,Fairview Veterinary Clinic,Small Business,Hamilton,ON,PRD-3003,Noise Cancelling Headphones,1,279.99,,In-Store,Sophie Tremblay,Cash
+SO-100674,07/03/2024,07/03/2024,CUS-10827,Fairview Veterinary Clinic,Small Business,Hamilton,ON,PRD-3002,Bluetooth Speaker,4,69.99,,In-Store,Sophie Tremblay,Cash
+SO-100674,07/03/2024,07/03/2024,CUS-10827,Fairview Veterinary Clinic,Small Business,Hamilton,ON,PRD-5004,Yoga Mat,5,34.99,,In-Store,Sophie Tremblay,Cash
+SO-100675,2024-07-03,2024-07-03,CUS-10162,Eastside Realty,Corporate,Ottawa,ON,PRD-1007,Glass Food Storage Set,22,39.99,0.05,In-Store,Daniel Okafor,Credit Card
+SO-100676,2024-07-03,2024-07-06,CUS-10544,Riverbend Construction,Small Business,Hamilton,on,PRD-3001,Wireless Earbuds,4,$99.99,0%,Online,Daniel Okafor,Credit Card
+SO-100677,2024-07-04,2024-07-04,CUS-10481,Doris Schmidt,Consumer,Corner Brook,NL,PRD-5005,Adjustable Dumbbells,1,199.99,,In-Store,  Emma Fraser,Debit
+SO-100678,07/04/2024,07/04/2024,CUS-10897,Kimberly Martin,Consumer,Toronto,ON,PRD-3008,Video Doorbell,2,159.99,0.1,In-Store,Sophie Tremblay,Debit
+SO-100678,07/04/2024,07/04/2024,CUS-10897,Kimberly Martin,Consumer,Toronto,ON,PRD-4001,Copy Paper (Case),1,54.99,0.1,In-Store,Sophie Tremblay,Debit
+SO-100679,2024-07-05,2024-07-05,CUS-10531,Sarah Phillips,Consumer,Ottawa,ON,PRD-5001,Electric Toothbrush,1,89.99,,In-Store,Daniel Okafor,Cash
+SO-100679,2024-07-05,2024-07-05,CUS-10531,Sarah Phillips,Consumer,Ottawa,ON,PRD-4004,Gel Pens 12pk,1,14.99,,In-Store,Daniel Okafor,Cash
+SO-100679,2024-07-05,2024-07-05,CUS-10531,Sarah Phillips,Consumer,Ottawa,ON,PRD-3008,Video Doorbell,1,159.99,0.1,In-Store,Daniel Okafor,Cash
+SO-100679,2024-07-05,2024-07-05,CUS-10531,Sarah Phillips,Consumer,Ottawa,ON,PRD-5005,Adjustable Dumbbells,2,199.99,,In-Store,Daniel Okafor,Cash
+SO-100680,2024-07-05,2024-07-05,CUS-10216,Summit Coffee House,Corporate,Calgary,AB,PRD-1008,BAMBOO CUTTING BOARD,22,24.99,0.05,In-Store,Marcus Bell,Cash
+SO-100681,2024-07-06,2024-07-10,CUS-10642,Emily Fortin,Consumer,Winnipeg,Manitoba,PRD-4004,Gel Pens 12pk,1,$14.99,20%,Online,Priya Nair,Credit Card
+SO-100681,2024-07-06,2024-07-10,CUS-10642,Emily Fortin,Consumer,Winnipeg,Manitoba,PRD-5004,Yoga Mat,1,$34.99,0%,Online,Priya Nair,Credit Card
+SO-100682,2024-07-06,2024-07-09,CUS-10399,Roy Evans,Consumer,Gatineau,QUEBEC,PRD-3006,Wireless Mouse,1,$39.99,0%,Online,Daniel Okafor,Credit Card
+SO-100683,2024-07-06,2024-07-07,CUS-10463,Owen Allen,Consumer,Halifax,NS,PRD-4001,Copy Paper (Case),2,$54.99,0%,Online,Emma Fraser,Credit Card
+SO-100684,2024-07-06,2024-07-06,CUS-10293,Ironwood Insurance Group,Small Business,Kelowna,BC,PRD-4002,Ergonomic Office Chair,1,299.99,,In-Store,Marcus Bell,Debit
+SO-100685,2024-07-07,2024-07-07,CUS-10082,Brandon Girard,Consumer,Surrey,BC,PRD-1007,Glass Food Storage Set,1,39.99,,In-Store,Olivia Chen,Credit Card
+SO-100685,2024-07-07,2024-07-07,CUS-10082,Brandon Girard,Consumer,Surrey,BC,PRD-3001,Wireless Earbuds,1,99.99,0.05,In-Store,Olivia Chen,Credit Card
+SO-100685,2024-07-07,2024-07-07,CUS-10082,Brandon Girard,Consumer,Surrey,BC,PRD-2002,Insulated Sleeping Bag,1,89.99,0.1,In-Store,Olivia Chen,Credit Card
+SO-100686,2024-07-07,2024-07-07,CUS-11048,Goldfield Property Management,Corporate,Gatineau,QC,PRD-1005,Drip Coffee Maker,9,79.99,0.15,IN-STORE,Sophie Tremblay,Credit Card
+SO-100687,2024-07-08,2024-07-08,CUS-10396,Lucas Long,Consumer,Lethbridge,AB,PRD-2008,Propane BBQ Grill,2,549.99,,In-Store,Olivia Chen,Debit
+SO-100687,2024-07-08,2024-07-08,CUS-10396,Lucas Long,Consumer,Lethbridge,AB,PRD-3001,Wireless Earbuds,1,99.99,0,In-Store,Olivia Chen,Debit
+SO-100688,2024-07-09,2024-07-09,CUS-10466,Eastside Property Management,Corporate,Prince Albert,sk,PRD-5004,Yoga Mat,21,34.99,0.05,In-Store,Priya Nair,Debit
+SO-100688,2024-07-09,2024-07-09,CUS-10466,Eastside Property Management,Corporate,Prince Albert,sk,PRD-2004,Garden Hose 50ft,4,34.99,0.1,In-Store,Priya Nair,Debit
+SO-100689,07/09/2024,07/09/2024,CUS-10067,Mohammed Butler,Consumer,Toronto,ON,PRD-1005,Drip Coffee Maker,2,79.99,0.05,In-Store,Sophie Tremblay,Credit Card
+SO-100690,2024-07-09,2024-07-09,CUS-10347,megan young,Consumer,Winnipeg,MB,PRD-5001,Electric Toothbrush,3,89.99,,In-Store,Priya Nair,Credit Card
+SO-100690,2024-07-09,2024-07-09,CUS-10347,megan young,Consumer,Winnipeg,MB,PRD-1005,Drip Coffee Maker,1,79.99,,In-Store,Priya Nair,Credit Card
+SO-100691,2024-07-09,2024-07-11,CUS-10720,Patricia Robertson,Consumer,Regina,SK,PRD-3002,Bluetooth Speaker,2,$69.99,0%,Online,Tyler Hughes,PayPal
+SO-100692,2024-07-10,2024-07-13,CUS-10753,Doris Chan,Consumer,Lethbridge,AB,PRD-1003,Chef Knife 8in,2,$64.99,0%,Online,Marcus Bell,Credit Card
+SO-100693,2024-07-10,2024-07-14,CUS-10530,Valley Dental Clinic,Corporate,Regina,SK,PRD-4005,Spiral Notebooks 5pk,15,$12.99,5%,Online,Tyler Hughes,Credit Card
+SO-100693,2024-07-10,2024-07-14,CUS-10530,Valley Dental Clinic,Corporate,Regina,SK,PRD-1006,Air Fryer 6qt,3,$129.99,5%,Online,Tyler Hughes,Credit Card
+SO-100694,2024-07-11,2024-07-15,CUS-10492,Brandon Weber,Consumer,Brandon,MB,PRD-4005,Spiral Notebooks 5pk,1,$12.99,0%,Online,Tyler Hughes,PayPal
+SO-100695,2024-07-11,2024-07-11,CUS-10261,Jonathan Moore,Consumer,VANCOUVER,BC,PRD-1006,Air Fryer 6qt,2,129.99,0,In-Store,Marcus Bell,Credit Card
+SO-100695,2024-07-11,2024-07-11,CUS-10261,Jonathan Moore,Consumer,VANCOUVER,BC,PRD-3006,Wireless Mouse,5,39.99,0.05,In-Store,Marcus Bell,Credit Card
+SO-100695,2024-07-11,2024-07-11,CUS-10261,Jonathan Moore,Consumer,VANCOUVER,BC,PRD-1007,Glass Food Storage Set,1,39.99,,In-Store,Marcus Bell,Credit Card
+SO-100696,2024-07-11,2024-07-12,CUS-10361,Justin Wang,Consumer,Kitchener,ON,PRD-3006,Wireless Mouse,1,$39.99,5%,Online,  Daniel Okafor,Credit Card
+SO-100696,2024-07-11,2024-07-12,CUS-10361,Justin Wang,Consumer,Kitchener,ON,PRD-3005,Mechanical Keyboard,1,$119.99,0%,Online,  Daniel Okafor,Credit Card
+SO-100696,2024-07-11,2024-07-12,CUS-10361,Justin Wang,Consumer,Kitchener,ON,PRD-1003,Chef Knife 8in,1,$55.24,5%,Online,  Daniel Okafor,Credit Card
+SO-100697,2024-07-12,2024-07-12,CUS-10233,Aurora Law Office,Small Business,Saskatoon,SK,PRD-5007,Massage Gun,3,149.99,,In-Store,Tyler Hughes,Debit
+SO-100698,2024-07-12,2024-07-12,CUS-10101,Pamela Lewis,Consumer,REGINA, SK  ,PRD-2003,Portable Camp Stove,3,74.99,,In-Store,Priya Nair,Credit Card
+SO-100698,2024-07-12,2024-07-12,CUS-10101,Pamela Lewis,Consumer,REGINA, SK  ,PRD-1006,Air Fryer 6qt,1,129.99,,In-Store,Priya Nair,Credit Card
+SO-100699,2024-07-12,2024-07-12,CUS-10321,Judith Clark,Consumer,Brandon,mb,prd-4004,Gel Pens 12pk,3,14.99,,In-Store,Tyler Hughes,Gift Card
+SO-100699,2024-07-12,2024-07-12,CUS-10321,Judith Clark,Consumer,Brandon,mb,PRD-1006,Air Fryer 6qt,1,129.99,,In-Store,Tyler Hughes,Gift Card
+SO-100700,2024-07-12,2024-07-28,CUS-10729,Nicholas Ahmed,Consumer,Truro,NS,PRD-2006,Raised Garden Bed Kit,1,$119.99,15%,Online,Emma Fraser,PayPal
+SO-100701,2024-07-12,2024-07-12,CUS-10524,Walter Collins,Consumer,Winnipeg,MB,PRD-5008,Humidifier,1,64.99,,In-Store,Tyler Hughes,Debit
+SO-100701,2024-07-12,2024-07-12,CUS-10524,Walter Collins,Consumer,Winnipeg,MB,PRD-1006,Air Fryer 6qt,2,129.99,,In-Store,Tyler Hughes,Debit
+SO-100701,2024-07-12,2024-07-12,CUS-10524,Walter Collins,Consumer,Winnipeg,MB,PRD-1002,Nonstick Cookware Set 10pc,2.0,189.99,0,In-Store,Tyler Hughes,Debit
+SO-100702,2024-07-12,2024-07-12,CUS-11018,Northgate Realty,Small Business,Red Deer,ab,PRD-1001,Cast Iron Skillet 12in,1.0,49.99,0.2,In-Store,Marcus Bell,Debit
+SO-100702,2024-07-12,2024-07-12,CUS-11018,Northgate Realty,Small Business,Red Deer,ab,PRD-2004,GARDEN HOSE 50FT,10,34.99,,In-Store,Marcus Bell,Debit
+SO-100703,2024-07-13,2024-07-15,CUS-10290,Ironwood Realty,Corporate,Toronto,Ontario,PRD-1003,Chef Knife 8in,3,$64.99,5%,Online,Daniel Okafor,Credit Card
+SO-100704,2024-07-13,2024-07-13,CUS-10348,Betty Rivera,Consumer,Charlottetown,PEI,PRD-2002,Insulated Sleeping Bag,2,89.99,0,In-Store,Emma Fraser,Credit Card
+SO-100704,2024-07-13,2024-07-13,CUS-10348,Betty Rivera,Consumer,Charlottetown,PEI,PRD-3008,Video Doorbell,1,159.99,,In-Store,Emma Fraser,Credit Card
+SO-100704,2024-07-13,2024-07-13,CUS-10348,Betty Rivera,Consumer,Charlottetown,PEI,PRD-4001,Copy Paper (Case),1,54.99,0,In-Store,Emma Fraser,Credit Card
+SO-100704,2024-07-13,2024-07-13,CUS-10348,Betty Rivera,Consumer,Charlottetown,PEI,PRD-2004,Garden Hose 50ft,6,34.99,0,In-Store,Emma Fraser,Credit Card
+SO-100705,07/13/2024,07/13/2024,CUS-10897,kimberly martin,Consumer,Toronto,Ont.,PRD-5003,Digital Bathroom Scale,2,39.99,0.15,Store,Sophie Tremblay,Credit Card
+SO-100706,07/13/2024,07/13/2024,CUS-10424,Victoria Fisher,Consumer,Montreal,QC,PRD-3004,27in Monitor,1,329.99,0.05,In-Store,Sophie Tremblay,Credit Card
+SO-100707,07/14/2024,07/14/2024,CUS-10609,Olivia Pelletier,Consumer,Toronto, ON  ,PRD-5001,Electric Toothbrush,2,89.99,,In-Store,Daniel Okafor,Debit
+SO-100708,07/14/2024,07/14/2024,CUS-10042,Judith Turner,Consumer,Montreal,Quebec,PRD-4001,Copy Paper (Case),3,54.99,0.05,In Store,Daniel Okafor,Debit
+SO-100709,07/14/2024,07/14/2024,CUS-10894,Redwood Property Management,Corporate,Hamilton,Ontario,PRD-5004,Yoga Mat,13,34.99,0.05,In-Store,Sophie Tremblay,Credit Card
+SO-100710,2024-07-14,2024-07-14,CUS-10166,Bluewater Realty,Corporate,Calgary,Alberta,PRD-3002,Bluetooth Speaker,9,69.99,0.05,In Store,  Olivia Chen,Credit Card
+SO-100711,2024-07-14,2024-07-17,CUS-10943,Meadowbrook Physiotherapy,Corporate,Mississauga,ON,PRD-5004,Yoga Mat,17,$34.99,5%,Online,Sophie Tremblay,Credit Card
+so-100712,2024-07-15,2024-07-18,CUS-10581,matthew garcia,Consumer,Toronto,ON,PRD-1006,Air Fryer 6qt,1,$129.99,5%,Online,Daniel Okafor,Gift Card
+so-100712,2024-07-15,2024-07-18,CUS-10581,matthew garcia,Consumer,Toronto,ON,PRD-2002,Insulated Sleeping Bag,1,$89.99,0%,Online,Daniel Okafor,Gift Card
+so-100712,2024-07-15,2024-07-18,CUS-10581,matthew garcia,Consumer,Toronto,ON,PRD-4006,Desk Organizer,2,$29.99,0%,Online,Daniel Okafor,Gift Card
+SO-100713,2024-07-15,2024-07-15,CUS-10162,Eastside Realty,Corporate,Ottawa,ontario,PRD-4005,Spiral Notebooks 5pk, 22 ,12.99,0.05,In-Store,Daniel Okafor,Debit
+SO-100714,2024-07-15,2024-07-15,CUS-10260,Eastside Accounting,small business,Calgary,Alta.,PRD-2008,Propane BBQ Grill,1,522.49,0.1,In-Store,Marcus Bell,Debit
+SO-100715,2024-07-15,2024-07-18,CUS-10156,Nicholas Stewart,Consumer,Edmonton,Alberta,PRD-3002,Bluetooth Speaker,1,$62.99,0%,Online,Marcus Bell,Credit Card
+SO-100715,2024-07-15,2024-07-18,CUS-10156,Nicholas Stewart,Consumer,Edmonton,Alberta,PRD-1005,Drip Coffee Maker,1,$79.99,0%,Online,Marcus Bell,Credit Card
+SO-100715,2024-07-15,2024-07-18,CUS-10156,Nicholas Stewart,Consumer,Edmonton,Alberta,PRD-5007,Massage Gun,2,$149.99,0%,Online,Marcus Bell,Credit Card
+SO-100716,2024-07-15,2024-07-17,CUS-10283,Harbourview Landscaping,Small Business,Regina,SK,PRD-3001,Wireless Earbuds,2,$99.99,0%,Online,Priya Nair,Gift Card
+SO-100717,2024-07-16,2024-07-16,CUS-10069,Alexis Hunter,Consumer,Victoria,BC,PRD-1004,Stand Mixer 5qt,1,349.99,0,In-Store,  Olivia Chen,Credit Card
+SO-100717,2024-07-16,2024-07-16,CUS-10069,Alexis Hunter,Consumer,Victoria,BC,PRD-1006,Air Fryer 6qt, 2 ,129.99,0,In-Store,  Olivia Chen,Credit Card
+SO-100704,2024-07-13,2024-07-13,CUS-10348,Betty Rivera,Consumer,Charlottetown,PEI,PRD-2002,Insulated Sleeping Bag,2,89.99,0,In-Store,Emma Fraser,Credit Card
+SO-100717,2024-07-16,2024-07-16,CUS-10069,Alexis Hunter,Consumer,Victoria,BC,PRD-2004,Garden Hose 50ft,2,34.99,0,In-Store,  Olivia Chen,Credit Card
+SO-100718,2024-07-16,2024-07-16,CUS-10459,Granite Hotel,Small Business,Regina,SK,PRD-4001,Copy Paper (Case),2,54.99,,In Store,Tyler Hughes,Debit
+SO-100719,2024-07-16,2024-07-22,CUS-10592,Roger Hassan,Consumer,Ottawa,ON,PRD-3001,WIRELESS EARBUDS,3,$99.99,5%,Online,Sophie Tremblay,Credit Card
+SO-100720,2024-07-16,2024-07-16,CUS-11026,Oakridge Consulting,Small Business,Calgary,Alberta,PRD-5002,Hair Dryer,6,59.99,,In-Store,Olivia Chen,Credit Card
+SO-100720,2024-07-16,2024-07-16,CUS-11026,Oakridge Consulting,Small Business,Calgary,Alberta,PRD-5006,Fitness Tracker, 3 ,129.99,,In-Store,Olivia Chen,Credit Card
+SO-100721,2024-07-17,2024-07-20,CUS-11044,  Cedar Engineering ,Corporate,Surrey,British Columbia,PRD-3004,27in Monitor,1,$329.99,10%,Online,Marcus Bell,PayPal
+SO-100721,2024-07-17,2024-07-20,CUS-11044,  Cedar Engineering ,Corporate,Surrey,British Columbia,PRD-2002,Insulated Sleeping Bag,2.0,$89.99,10%,Online,Marcus Bell,PayPal
+SO-100722,2024-07-17,2024-07-17,CUS-10813,Meadowbrook Dental Clinic,Small Business,Gatineau,QC,PRD-4006,Desk Organizer,7,29.99,0,In-Store,Daniel Okafor,Credit Card
+SO-100723,07/17/2024,07/17/2024,CUS-10242,Sarah Grant,Consumer,Mississauga,ON,PRD-9999,BLUETOOTH SPEAKER,1,69.99,,In Store,Sophie Tremblay,Credit Card
+SO-100724,07/17/2024,07/17/2024,CUS-10765,Aurora Property Management,Corporate,Toronto,ON,PRD-4001,Copy Paper (Case),10,49.49,0.05,In-Store,Daniel Okafor,Credit Card
+SO-100724,07/17/2024,07/17/2024,CUS-10765,Aurora Property Management,Corporate,Toronto,ON,PRD-2004,Garden Hose 50ft, 12 ,34.99,0.05,In-Store,Daniel Okafor,Credit Card
+SO-100725,07/17/2024,07/17/2024,CUS-10581,Matthew Garcia,Consumer,Toronto,ON,PRD-1006,Air Fryer 6qt,1,129.99,0,In-Store,Daniel Okafor,Credit Card
+SO-100726,07/17/2024,07/17/2024,CUS-11025,Redwood Hardware,Small Business,Hamilton,ON,PRD-2004,Garden Hose 50ft,6,34.99,0.1,In-Store,  Daniel Okafor,Cash
+SO-100727,2024-07-17,2024-07-21,CUS-10861,Aurora Realty,Corporate,Saint John,NB,PRD-1006,Air Fryer 6qt,5,$129.99,5%,Online,Emma Fraser,PayPal
+SO-100727,2024-07-17,2024-07-21,CUS-10861,Aurora Realty,Corporate,Saint John,NB,PRD-3001,Wireless Earbuds,9,$99.99,20%,Online,Emma Fraser,PayPal
+SO-100728,2024-07-17,2024-07-17,CUS-10596,Summit Marketing,Small Business,Kelowna,BC,PRD-1007,Glass Food Storage Set,4,39.99,0.2,In Store,Marcus Bell,Credit Card
+SO-100728,2024-07-17,2024-07-17,CUS-10596,Summit Marketing,Small Business,Kelowna,BC,PRD-3001,Wireless Earbuds,5,99.99,,In Store,Marcus Bell,Credit Card
+SO-100729,2024-07-17,2024-07-18,CUS-10436,Aurora Design Studio,Small Business,Gatineau,QC,PRD-3001,Wireless Earbuds,2,$99.99,0%,Online,Daniel Okafor,PayPal
+SO-100729,2024-07-17,2024-07-18,CUS-10436,Aurora Design Studio,Small Business,Gatineau,QC,PRD-4004,Gel Pens 12pk,9,$14.99,0%,Online,Daniel Okafor,PayPal
+SO-100730,2024-07-17,2024-07-17,CUS-10717,Prairie Realty,Corporate,Quebec City,QC,PRD-3002,Bluetooth Speaker,8,69.99,0.1,In Store,Sophie Tremblay,Gift Card
+SO-100731,2024-07-18,2024-07-21,CUS-10625,Valley Property Management,Corporate,Saint John,NB,PRD-5003,Digital Bathroom Scale,10,$39.99,10%,Online,Ryan Doucette,PayPal
+SO-100732,2024-07-18,2024-07-18,CUS-10106,Northern Insurance Group,Small Business,Kitchener,ontario,PRD-3001,Wireless Earbuds,6,99.99,0,Store,Daniel Okafor,Cash
+SO-100733,2024-07-18,2024-07-18,CUS-10022,Northgate Credit Union,Small Business,Kitchener,Ontario,PRD-5001,Electric Toothbrush,3,89.99,0.05,In-Store,Daniel Okafor,Debit
+SO-100733,2024-07-18,2024-07-18,CUS-10022,Northgate Credit Union,Small Business,Kitchener,Ontario,PRD-5004,Yoga Mat,10,34.99,0,In-Store,Daniel Okafor,Debit
+SO-100734,2024-07-19,2024-07-19,CUS-10385,Elizabeth Chavez,Consumer,Brandon,MB,PRD-2002,Insulated Sleeping Bag,1,89.99,,In-Store,Priya Nair,Cash
+SO-100735,2024-07-19,2024-07-19,CUS-10265,Aisha Turner,Consumer,Gatineau,qc,PRD-3005,Mechanical Keyboard,1,119.99,,In-Store,Daniel Okafor,Debit
+SO-100736,2024-07-20,2024-07-24,CUS-10140,Crestview Construction,Corporate,Brandon,mb,PRD-2007,Patio Dining Set 5pc,2,$899.99,10%,Online,Tyler Hughes,Credit Card
+SO-100737,2024-07-20,2024-07-20,CUS-10155,Theresa Hughes,Consumer,London,ON,PRD-5002,Hair Dryer,1,59.99,,In-Store,Daniel Okafor,Credit Card
+SO-100738,2024-07-20,2024-07-20,CUS-10580,Redwood Logistics,Small Business,Lethbridge,ALBERTA,PRD-1007,Glass Food Storage Set,6,39.99,0,In-Store,Marcus Bell,Debit
+SO-100739,2024-07-21,2024-07-24,CUS-10633,Maple Logistics,Small Business,Toronto,ON,PRD-3002,Bluetooth Speaker,2,$69.99,0%,Online,Sophie Tremblay,PayPal
+SO-100740,2024-07-21,2024-07-21,CUS-10411,Olga White,Consumer,Regina,N/A,PRD-5003,Digital Bathroom Scale,1,39.99,,Store,Tyler Hughes,Debit
+SO-100741,2024-07-21,2024-07-21,CUS-11048,Goldfield Property Management,Corporate,Gatineau,qc,PRD-4005,Spiral Notebooks 5pk,14,12.99,0.05,In-Store,  Sophie Tremblay,Debit
+SO-100741,2024-07-21,2024-07-21,CUS-11048,Goldfield Property Management,Corporate,Gatineau,qc,PRD-2006,Raised Garden Bed Kit,6,119.99,0.1,In-Store,  Sophie Tremblay,Debit
+SO-100741,2024-07-21,2024-07-21,CUS-11048,Goldfield Property Management,Corporate,Gatineau,qc,PRD-3001,Wireless Earbuds, 2 ,99.99,0.1,In-Store,  Sophie Tremblay,Debit
+SO-100742,2024-07-22,2024-07-25,CUS-10539,Cheryl Hernandez,Consumer,Calgary,AB,PRD-5002,Hair Dryer,1,$59.99,0%,online,Marcus Bell,PayPal
+SO-100742,2024-07-22,2024-07-25,CUS-10539,Cheryl Hernandez,Consumer,Calgary,AB,PRD-5008,Humidifier,1,$64.99,5%,online,Marcus Bell,PayPal
+SO-100743,2024-07-22,2024-07-22,CUS-10790,Patrick Taylor,Consumer,London,ON,PRD-1007,Glass Food Storage Set,5,39.99,0.05,instore,Sophie Tremblay,Credit Card
+SO-100743,2024-07-22,2024-07-22,CUS-10790,Patrick Taylor,Consumer,London,ON,PRD-5007,Massage Gun,1,149.99,0,instore,Sophie Tremblay,Credit Card
+SO-100744,2024-07-22,2024-07-26,CUS-10624,Willow Printing,Small Business,Calgary,Alta.,PRD-2001,4-Person Dome Tent,1,$219.99,0%,Online,Marcus Bell,PayPal
+SO-100745,2024-07-22,2024-07-22,CUS-10649,Lori Kumar,Consumer,Summerside,PEI,PRD-1007,Glass Food Storage Set,1,39.99,0,In-Store,Emma Fraser,Debit
+SO-100745,2024-07-22,2024-07-22,CUS-10649,Lori Kumar,Consumer,Summerside,PEI,PRD-2005,Cordless Hedge Trimmer,3,149.99,0,In-Store,Emma Fraser,Debit
+SO-100746,2024-07-22,2024-07-22,CUS-10480,Stonebridge Logistics,Small Business,Calgary,Alta.,PRD-4004,Gel Pens 12pk,8,12.74,0,In-Store,Marcus Bell,Debit
+SO-100747,2024-07-23,2024-07-23,CUS-10049,Cedar Credit Union,Corporate,Regina,Saskatchewan,PRD-1002,Nonstick Cookware Set 10pc,6,189.99,0.05,In-Store,Tyler Hughes,Debit
+SO-100748,2024-07-23,2024-07-25,CUS-10900,Harbourview Hardware,Corporate,Regina,SK,PRD-1007,Glass Food Storage Set,13,$39.99,20%,Online,Tyler Hughes,PayPal
+SO-100749,2024-07-23,2024-07-27,CUS-10107,Summit Bakery,Small Business,Sydney,NS,PRD-4002,Ergonomic Office Chair,1,$299.99,10%,Online,Emma Fraser,Credit Card
+SO-100750,2024-07-23,2024-07-26,CUS-10231,Matthew Kumar,Consumer,Surrey,BC,PRD-5006,Fitness Tracker,1,$129.99,0%,Online,Marcus Bell,Gift Card
+SO-100750,2024-07-23,2024-07-26,CUS-10231,Matthew Kumar,Consumer,Surrey,BC,PRD-4004,Gel Pens 12pk,3,$14.99,10%,Online,Marcus Bell,Gift Card
+SO-100751,2024-07-23,2024-07-23,CUS-10733,Eastside Fitness Studio,Small Business,Ottawa,ONTARIO,PRD-3001,Wireless Earbuds,1,99.99,,In-Store,Daniel Okafor,Credit Card
+SO-100751,2024-07-23,2024-07-23,CUS-10733,Eastside Fitness Studio,Small Business,Ottawa,ONTARIO,PRD-1001,Cast Iron Skillet 12in,3,49.99,,In-Store,Daniel Okafor,Credit Card
+SO-100752,2024-07-23,2024-07-27,CUS-10312,Pinecrest Fitness Studio,Corporate,Calgary,AB,PRD-2002,INSULATED SLEEPING BAG,10,$89.99,5%,Web,  Olivia Chen,PayPal
+SO-100753,2024-07-24,2024-07-24,CUS-10344,Carolyn Kim,Consumer,Red Deer,AB,PRD-3002,Bluetooth Speaker,1,69.99,0.1,instore,Marcus Bell,Credit Card
+SO-100753,2024-07-24,2024-07-24,CUS-10344,Carolyn Kim,Consumer,Red Deer,AB,PRD-5006,Fitness Tracker,2,129.99,0.1,instore,Marcus Bell,Credit Card
+SO-100753,2024-07-24,2024-07-24,CUS-10344,Carolyn Kim,Consumer,Red Deer,AB,PRD-1006,Air Fryer 6qt, 1 ,129.99,0.15,instore,Marcus Bell,Credit Card
+SO-100754,2024-07-24,2024-07-24,CUS-10640,Prairie Fitness Studio,Small Business,London,Ont.,PRD-3001,Wireless Earbuds,1,99.99,,In Store,Daniel Okafor,Credit Card
+SO-100754,2024-07-24,2024-07-24,CUS-10640,Prairie Fitness Studio,Small Business,London,Ont.,PRD-3005,Mechanical Keyboard,1,119.99,,In Store,Daniel Okafor,Credit Card
+SO-100754,2024-07-24,2024-07-24,CUS-10640,Prairie Fitness Studio,Small Business,London,Ont.,PRD-5004,Yoga Mat,5,33.24,0,In Store,Daniel Okafor,Credit Card
+SO-100755,2024-07-24,2024-07-24,CUS-10569,Timberline Credit Union,Corporate,Kelowna,BC,PRD-1002,Nonstick Cookware Set 10pc,5,189.99,0.05,In-Store,Olivia Chen,Credit Card
+SO-100755,2024-07-24,2024-07-24,CUS-10569,Timberline Credit Union,Corporate,Kelowna,BC,PRD-3006,Wireless Mouse,8,39.99,0.05,In-Store,Olivia Chen,Credit Card
+SO-100756,2024-07-24,2024-07-24,CUS-10790,Patrick Taylor,Consumer,London,ONTARIO,PRD-2004,Garden Hose 50ft,3,34.99,0,In-Store,Sophie Tremblay,Credit Card
+SO-100757,2024-07-24,2024-07-26,CUS-10081,Michael Fraser,Consumer,Brandon,MB,PRD-5004,Yoga Mat,2,$34.99,0%,Online,Tyler Hughes,Credit Card
+SO-100758,2024-07-25,2024-07-27,CUS-10290,Ironwood Realty,Corporate,Toronto,Ontario,PRD-3005,Mechanical Keyboard,4,$119.99,5%,Online,Daniel Okafor,Credit Card
+SO-100759,2024-07-25,2024-07-25,CUS-10265,Aisha Turner,Consumer,Gatineau,QC,PRD-3001,Wireless Earbuds,1,99.99,0,In-Store,Daniel Okafor,Debit
+SO-100760,2024-07-25,2024-07-30,CUS-10389,Harbourview Veterinary Clinic,Small Business,Montreal,QC,PRD-5004,Yoga Mat,5,$34.99,0%,Online,Daniel Okafor,Credit Card
+SO-100761,07/26/2024,07/26/2024,CUS-10943,Meadowbrook Physiotherapy,Corporate,Mississauga,ON,PRD-3001,Wireless Earbuds,7,99.99,0.2,In-Store,Sophie Tremblay,Gift Card
+SO-100761,07/26/2024,07/26/2024,CUS-10943,Meadowbrook Physiotherapy,Corporate,Mississauga,ON,PRD-3004,27in Monitor,3,329.99,0.05,In-Store,Sophie Tremblay,Gift Card
+SO-100762,2024-07-26,2024-07-26,CUS-10017,Stonebridge Construction,Small Business,Regina,SK,PRD-4001,Copy Paper (Case),3,54.99,0.1,In-Store,Priya Nair,Cash
+SO-100762,2024-07-26,2024-07-26,CUS-10017,Stonebridge Construction,Small Business,Regina,SK,PRD-3001,Wireless Earbuds,1,99.99,,In-Store,Priya Nair,Cash
+SO-100763,2024-07-26,2024-07-26,CUS-11039,Ali Jordan,Consumer,Ottawa,ON,PRD-2004,Garden Hose 50ft,2,34.99,0,In-Store,Sophie Tremblay,Credit Card
+SO-100763,2024-07-26,2024-07-26,CUS-11039,Ali Jordan,Consumer,Ottawa,ON,PRD-5001,ELECTRIC TOOTHBRUSH,1,89.99,0.2,In-Store,Sophie Tremblay,Credit Card
+SO-100764,2024-07-26,2024-07-26,CUS-10359,Riverbend Engineering,Small Business,Regina,Saskatchewan,PRD-2008,Propane BBQ Grill,1,549.99,0,In-Store,Tyler Hughes,Debit
+SO-100764,2024-07-26,2024-07-26,CUS-10359,Riverbend Engineering,Small Business,Regina,Saskatchewan,PRD-1006,Air Fryer 6qt, 4 ,129.99,,In-Store,Tyler Hughes,Debit
+SO-100765,2024-07-26,2024-07-31,CUS-10271,Goldfield Medical Centre,Small Business,Gatineau,QUEBEC,PRD-5005,Adjustable Dumbbells,2,$199.99,0%,Online,Daniel Okafor,PayPal
+SO-100766,2024-07-27,2024-07-30,CUS-10713,Pinecrest Marketing,Small Business,Calgary,AB,PRD-4004,Gel Pens 12pk,8,$14.99,5%,ONLINE,Olivia Chen,PayPal
+SO-100766,2024-07-27,2024-07-30,CUS-10713,Pinecrest Marketing,Small Business,Calgary,AB,PRD-1003,Chef Knife 8in,3,$64.99,0%,ONLINE,Olivia Chen,PayPal
+SO-100766,2024-07-27,2024-07-30,CUS-10713,Pinecrest Marketing,Small Business,Calgary,AB,PRD-4003,Standing Desk Converter,1,$249.99,0%,ONLINE,Olivia Chen,PayPal
+SO-100767,2024-07-27,2024-07-28,CUS-11017,Valley Consulting,Corporate,Victoria,BC,PRD-2002,Insulated Sleeping Bag,8,$89.99,5%,Online,Marcus Bell,Credit Card
+SO-100767,2024-07-27,2024-07-28,CUS-11017,Valley Consulting,Corporate,Victoria,BC,PRD-3001,Wireless Earbuds,2,$99.99,5%,Online,Marcus Bell,Credit Card
+SO-100768,2024-07-27,2024-07-31,CUS-10691,Janice Byrne,Consumer,Regina,Saskatchewan,PRD-1006,Air Fryer 6qt,1,$129.99,10%,Online,Priya Nair,Credit Card
+SO-100769,2024-07-28,2024-08-01,CUS-10293,Ironwood Insurance Group,Small Business,  Kelowna , BC  ,PRD-3006,Wireless Mouse,5,$35.99,5%,Web,Marcus Bell,PayPal
+SO-100769,2024-07-28,2024-08-01,CUS-10293,Ironwood Insurance Group,Small Business,  Kelowna , BC  ,PRD-3001,Wireless Earbuds,5,$99.99,0%,Web,Marcus Bell,PayPal
+SO-100770,2024-07-28,2024-07-28,CUS-10834,Coastal Physiotherapy,Corporate,Ottawa,ON,PRD-4004,Gel Pens 12pk,7,14.24,0.1,In-Store,Sophie Tremblay,Debit
+SO-100770,2024-07-28,2024-07-28,CUS-10834,Coastal Physiotherapy,Corporate,Ottawa,ON,PRD-1001,Cast Iron Skillet 12in,9,49.99,0.1,In-Store,Sophie Tremblay,Debit
+SO-100771,2024-07-28,2024-07-28,CUS-10753,Doris Chan,Consumer,Lethbridge,Alberta,PRD-2004,Garden Hose 50ft,2,34.99,0,instore,Marcus Bell,Credit Card
+SO-100772,2024-07-28,2024-07-28,CUS-11002,Riverbend Bakery,Small Business,Kitchener,ON,PRD-3001,Wireless Earbuds,1,99.99,0.05,In-Store,Sophie Tremblay,Debit
+SO-100773,07/28/2024,07/28/2024,CUS-10864,Patricia Olson,Consumer,Laval,QC,PRD-1006,Air Fryer 6qt,1,129.99,0,In-Store,Daniel Okafor,Debit
+SO-100774,07/28/2024,07/28/2024,CUS-10986,Emma Marshall,Consumer,Toronto,Ontario,PRD-1006,Air Fryer 6qt,1,129.99,0,In-Store,Sophie Tremblay,Credit Card
+SO-100774,07/28/2024,07/28/2024,CUS-10986,Emma Marshall,Consumer,Toronto,Ontario,PRD-5001,Electric Toothbrush,3,89.99,,In-Store,Sophie Tremblay,Credit Card
+SO-100774,07/28/2024,07/28/2024,CUS-10986,Emma Marshall,Consumer,Toronto,Ontario,PRD-3008,Video Doorbell,1,159.99,0,In-Store,Sophie Tremblay,Credit Card
+SO-100774,07/28/2024,07/28/2024,CUS-10986,Emma Marshall,Consumer,Toronto,Ontario,PRD-5004,Yoga Mat,2,33.24,0.1,In-Store,Sophie Tremblay,Credit Card
+SO-100775,2024-07-28,2024-07-28,CUS-10697,Justin Wilson,Consumer,Gatineau,QC,PRD-1006,Air Fryer 6qt,2,116.99,0.1,In-Store,Sophie Tremblay,Credit Card
+SO-100775,2024-07-28,2024-07-28,CUS-10697,Justin Wilson,Consumer,Gatineau,QC,PRD-2006,Raised Garden Bed Kit,1,119.99,0,In-Store,Sophie Tremblay,Credit Card
+SO-100776,07/28/2024,07/28/2024,CUS-10663,Aurora Fitness Studio,Corporate,Hamilton,Ont.,PRD-1001,Cast Iron Skillet 12in,10,49.99,0.05,In-Store,Daniel Okafor,Debit
+SO-100776,07/28/2024,07/28/2024,CUS-10663,Aurora Fitness Studio,Corporate,Hamilton,Ont.,PRD-5006,Fitness Tracker,6,129.99,0.05,In-Store,Daniel Okafor,Debit
+SO-100776,07/28/2024,07/28/2024,CUS-10663,Aurora Fitness Studio,Corporate,Hamilton,Ont.,PRD-1006,Air Fryer 6qt,7,129.99,0.05,In-Store,Daniel Okafor,Debit
+SO-100777,2024-07-28,2024-07-31,CUS-10280,Jessica Johnson,Consumer,Red Deer,AB,PRD-5006,Fitness Tracker,1,$129.99,20%,Online,Marcus Bell,Credit Card
+SO-100777,2024-07-28,2024-07-31,CUS-10280,Jessica Johnson,Consumer,Red Deer,AB,PRD-3001,Wireless Earbuds,1,$99.99,10%,Online,Marcus Bell,Credit Card
+SO-100777,2024-07-28,2024-07-31,CUS-10280,Jessica Johnson,Consumer,Red Deer,AB,PRD-4001,Copy Paper (Case),3,$54.99,0%,Online,Marcus Bell,Credit Card
+SO-100778,2024-07-29,2024-07-29,CUS-10873,Meadowbrook Design Studio,Small Business,Calgary,Alberta,PRD-2003,Portable Camp Stove,4,74.99,,Store,Olivia Chen,Cash
+SO-100779,2024-07-29,2024-07-31,CUS-10848,Wheatland Dental Clinic,Corporate,Kelowna,BC,PRD-2008,Propane BBQ Grill,2,$549.99,10%,Online,Marcus Bell,Credit Card
+SO-100779,2024-07-29,2024-07-31,CUS-10848,Wheatland Dental Clinic,Corporate,Kelowna,BC,PRD-3002,Bluetooth Speaker,6,$69.99,5%,Online,Marcus Bell,Credit Card
+SO-100780,2024-07-29,2024-08-02,CUS-10735,Crestview Bakery,Small Business,Calgary,Alberta,PRD-4001,Copy Paper (Case),5,$54.99,0%,Online,Olivia Chen,Credit Card
+SO-100780,2024-07-29,2024-08-02,CUS-10735,Crestview Bakery,Small Business,Calgary,Alberta,PRD-2008,Propane BBQ Grill,1,$549.99,0%,Online,Olivia Chen,Credit Card
+SO-100781,2024-07-30,2024-08-03,CUS-10549,  Wheatland Coffee House ,Corporate,Ottawa,ON,PRD-1007,Glass Food Storage Set,13,$39.99,5%,Online,Daniel Okafor,Credit Card
+SO-100781,2024-07-30,2024-08-03,CUS-10549,  Wheatland Coffee House ,Corporate,Ottawa,ON,PRD-1001,Cast Iron Skillet 12in,10,$49.99,5%,Online,Daniel Okafor,Credit Card
+SO-100781,2024-07-30,2024-08-03,CUS-10549,  Wheatland Coffee House ,Corporate,Ottawa,ON,PRD-5005,Adjustable Dumbbells,2,$199.99,5%,Online,Daniel Okafor,Credit Card
+SO-100782,2024-07-30,2024-07-30,CUS-10164,Northern Law Office,small business,Saskatoon,SK,PRD-3006,Wireless Mouse,10,39.99,,In-Store,Priya Nair,Debit
+SO-100782,2024-07-30,2024-07-30,CUS-10164,Northern Law Office,small business,Saskatoon,SK,PRD-3005,Mechanical Keyboard,4,119.99,0,In-Store,Priya Nair,Debit
+SO-100783,2024-07-31,2024-08-02,CUS-10900,Harbourview Hardware,Corporate,Regina,SK,PRD-5007,Massage Gun,2,$149.99,5%,Online,Tyler Hughes,Credit Card
+SO-100783,2024-07-31,2024-08-02,CUS-10900,Harbourview Hardware,Corporate,Regina,SK,PRD-3001,Wireless Earbuds,5,$99.99,10%,Online,Tyler Hughes,Credit Card
+SO-100783,2024-07-31,2024-08-02,CUS-10900,Harbourview Hardware,Corporate,Regina,SK,PRD-3002,Bluetooth Speaker,2,$69.99,5%,Online,Tyler Hughes,Credit Card
+SO-100784,2024-07-31,2024-08-02,CUS-10826,westwind law office,Corporate,Truro,NS,PRD-2006,Raised Garden Bed Kit,5,$119.99,5%,Online,Ryan Doucette,Credit Card
+SO-100785,2024-07-31,2024-07-31,CUS-10179,Evelyn Kennedy,Consumer,Kelowna,BC,PRD-3006,Wireless Mouse,2,39.99,0.05,In Store,Olivia Chen,Credit Card
+SO-100786,2024-07-31,2024-07-31,CUS-10571,Olga Walsh,Consumer,Steinbach,MB,PRD-2004,Garden Hose 50ft,3,34.99,0,IN-STORE,Priya Nair,Credit Card
+SO-100787,2024-07-31,2024-08-02,CUS-10139,Northgate Construction,corporate,Calgary,AB,PRD-1001,Cast Iron Skillet 12in,4,$49.99,5%,Online,Marcus Bell,Credit Card
+SO-100787,2024-07-31,2024-08-02,CUS-10139,Northgate Construction,corporate,Calgary,AB,PRD-3004,27in Monitor,1,$329.99,5%,Online,Marcus Bell,Credit Card
+SO-100788,2024-07-31,2024-08-01,CUS-10165,Ironwood Logistics,Corporate,Edmonton,AB,PRD-5001,Electric Toothbrush,10,$89.99,5%,Online,Marcus Bell,PayPal

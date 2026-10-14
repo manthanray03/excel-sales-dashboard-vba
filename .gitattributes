@@ -1,0 +1,14 @@
+# The VBA editor only imports modules with Windows line endings
+*.bas  text eol=crlf
+*.cls  text eol=crlf
+*.frm  text eol=crlf
+
+# keep the sample exports byte-for-byte as they were generated
+*.csv  text eol=crlf
+
+*.pq   text
+*.md   text
+
+# Office files
+*.xlsm binary
+*.xlsx binary
