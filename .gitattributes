@@ -1,13 +1,9 @@
-# The VBA editor only imports modules with Windows line endings
-*.bas  text eol=crlf
-*.cls  text eol=crlf
-*.frm  text eol=crlf
-
-# keep the sample exports byte-for-byte as they were generated
-*.csv  text eol=crlf
-
-*.pq   text
-*.md   text
+# Keep the files exactly as they are in the repo (Windows line endings).
+# The VBA editor only imports modules with Windows line endings.
+*.bas  -text
+*.cls  -text
+*.frm  -text
+*.csv  -text
 
 # Office files
 *.xlsm binary
